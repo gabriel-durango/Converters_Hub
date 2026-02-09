@@ -4,7 +4,7 @@ Aplicación web de herramientas de conversión y formateo de datos. Ofrece múlt
 
 ## Descripción
 
-Convertido-Comparador es una plataforma que proporciona herramientas de conversión y procesamiento de archivos online. El proyecto está dividido en dos partes: un frontend desarrollado en React y un backend en Node.js que maneja las operaciones de conversión.
+Converters Hub es una plataforma que proporciona herramientas de conversión y procesamiento de archivos online. El proyecto está dividido en dos partes: un frontend desarrollado en React y un backend en Node.js que maneja las operaciones de conversión.
 
 ## Características
 
@@ -34,7 +34,7 @@ Convertido-Comparador es una plataforma que proporciona herramientas de conversi
 ## Estructura del Proyecto
 
 ```
-Convertido-Comparador/
+Converters Hub/
 ├── Frontend/          # Aplicación React con Vite
 │   ├── src/
 │   │   ├── components/    # Componentes reutilizables
